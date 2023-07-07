@@ -29,6 +29,9 @@
                     <li><a href="#">Editar Sobre</a></li>
                     <li><a href="#">Gerenciar Equipe</a></li>
                 </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="?sair">Sair!</a></li>
+                </ul>
             </div>
         </div>
     </nav>
